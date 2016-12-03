@@ -2,6 +2,10 @@
 
 A simple DrupalGap 8 Theme with Foundation 6 Sites and two Off Canvas Panels.
 
+## Installation
+
+Follow the instructions for the `frank` theme included with DrupalGap 8 core, just replace `frank` with `fog` along the way to get Foundation ready to use with this theme. You also need to include the Foundation and jQuery `.js` files mentioned in the Foundation Sites docs to get the panels to work.
+
 ## Regions
 
  - top
